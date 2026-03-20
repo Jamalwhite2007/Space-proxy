@@ -1,1 +1,1 @@
-{\n  \"version\": 2,\n  \"services\": {\n    \"service-name\": {\n      \"deploy\": {\n        \"command\": \"npm run build\",\n        \"environment\": {\n          \"NODE_ENV\": \"production\"\n        }\n      },\n      \"build\": {\n        \"env\": {\n          \"NODE_ENV\": \"production\"\n        }\n      }\n    }\n  }\n}
+{"key1": "value1", "key2": "value2", "key3": "value3"}
